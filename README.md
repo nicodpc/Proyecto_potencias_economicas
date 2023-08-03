@@ -1,5 +1,5 @@
 # Proyecto_final_economias_top
-   Este proyecto se basa en un anáilis exploratorio y confriamtorio de datos, referente a las 5 potencias económicas mundiales, aplicando un modelo ARIMA (M
+   Este proyecto se basa en un anáilis exploratorio y confriamtorio de datos, referente a las 5 potencias económicas mundiales,posteriormente aplicando un modelo predictivo de series temporales. ARIMA 
 
 # Descripción 
  Este proyecto se enfoca en el análisis de los indicadores económicos clave de las cinco principales potencias mundiales: Estados Unidos, China, Alemania, Japón e India. Se han explorado datos importantes, como el índice de desempleo, el índice de precios al consumo (IPC), el Producto Interno Bruto (PIB) y el PIB per cápita, con el objetivo de entender la evolución económica de cada país a lo largo del tiempo.
