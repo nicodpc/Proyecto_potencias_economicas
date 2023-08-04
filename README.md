@@ -1,4 +1,4 @@
-# Proyecto_final_economias_top
+# Proyecto_potencias_económicas
    Este proyecto se basa en un anáilis exploratorio y confriamtorio de datos, referente a las 5 potencias económicas mundiales, posteriormente aplicando un modelo predictivo de series temporales. ARIMA. 
 
 # Descripción 
